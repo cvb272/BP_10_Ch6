@@ -83,7 +83,7 @@ while True:
 t.end_fill()
 
 
-#12
+#12번
 import turtle 
 import math
 
